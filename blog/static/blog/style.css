@@ -1,7 +1,7 @@
-li a {
-    color: green;
+h1 a, h2 a {
+    color: #C25100;
 }
 
 body {
-    color: red;
+    padding-left: 15px;
 }
